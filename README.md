@@ -9,7 +9,7 @@ This work introduces a leakage quantification framework for modeling microarchit
 ![GitHub Repo stars](https://img.shields.io/github/stars/iamywang/branch-gauge)
 ![GitHub forks](https://img.shields.io/github/forks/iamywang/branch-gauge)
 
-**The code will be released after our paper receives final approval from the shepherd.**
+**The code will be released soon.**
 
 ## 0x01 Getting Started
 
@@ -160,5 +160,11 @@ If you have any questions, please contact me through [GitHub Issues](https://git
 If our work is useful for your research, please consider citing our paper:
 
 ```bibtex
-TBD
+@INPROCEEDINGS{wang2025branchgauge,
+  title={{BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors}}, 
+  author={Wang, Quancheng and Tang, Ming and Xu, Ke and Wang, Han},
+  booktitle={Proceedings of the 20th ACM Asia Conference on Computer and Communications Security (ASIA CCS'25)}, 
+  year={2025},
+  publisher={ACM}
+}
 ```
