@@ -101,11 +101,11 @@ To plot the results, you can run the following scripts in the `exps/plot` direct
 5. Figure 10 (Branch accesses metric for occupancy-based PHT attacks): `python3 fig10-pht-occupancy-n.py`;
 6. Figure 11 (Branch accesses metric for occupancy-based BTB attacks): `python3 fig11-btb-occupancy-n.py`;
 7. Figure 12 (Collision proability metric for occupancy-based PHT attacks): `python3 fig12-pht-occupancy-pr.py`;
-8. Figure 13 (Collision proability metric for occupancy-based PHT attacks): `python3 fig13-btb-occupancy-pr.py`.
-9. Figure 14 (BTB Leakage quantification under single-secret space): `python3 fig14-leakage-reuse-1.py`.
-10. Figure 15 (PHT Leakage quantification under single-secret space): `python3 fig15-leakage-reuse-2.py`.
-11. Table 2 (PHT Leakage quantification under multiple-secret space): `python3 tab2-leakage-pht.py`.
-12. Table 3 (BTB Leakage quantification under multiple-secret space): `python3 tab3-leakage-btb.py`.
+8. Figure 13 (Collision proability metric for occupancy-based PHT attacks): `python3 fig13-btb-occupancy-pr.py`;
+9. Figure 14 (BTB Leakage quantification under single-secret space): `python3 fig14-leakage-reuse-1.py`;
+10. Figure 15 (PHT Leakage quantification under single-secret space): `python3 fig15-leakage-reuse-2.py`;
+11. Table 2 (PHT Leakage quantification under multiple-secret space): `python3 tab2-leakage-pht.py`;
+12. Table 3 (BTB Leakage quantification under multiple-secret space): `python3 tab3-leakage-btb.py`;
 13. (Advanced) Run all plotting scripts: `sh plot.sh`:
 
 ```shell
