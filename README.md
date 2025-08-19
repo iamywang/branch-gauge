@@ -161,7 +161,8 @@ If our work is useful for your research, please consider citing our paper:
 @INPROCEEDINGS{wang2025branchgauge,
   title={{BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors}}, 
   author={Wang, Quancheng and Tang, Ming and Xu, Ke and Wang, Han},
-  booktitle={Proceedings of ACM Asia Conference on Computer and Communications Security (ASIA CCS ’25)},
+  booktitle={Proceedings of the 20th ACM Asia Conference on Computer and Communications Security (ASIA CCS'25)},
+  pages={1265--1279},
   year={2025},
   publisher={ACM}
 }
