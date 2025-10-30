@@ -2,6 +2,7 @@
 
 This work introduces a leakage quantification framework for modeling microarchitectural attacks and quantifying side-channel leakage in randomization-based secure branch predictors during the early design phase.
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/iamywang/branch-gauge/cmake.yml)
 ![GitHub License](https://img.shields.io/github/license/iamywang/branch-gauge)
 ![GitHub top language](https://img.shields.io/github/languages/top/iamywang/branch-gauge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/iamywang/branch-gauge)
