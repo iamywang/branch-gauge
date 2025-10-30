@@ -23,7 +23,7 @@ FROM ubuntu:22.04
 LABEL authors="iamywang"
 
 # set the working directory
-WORKDIR /workspace
+WORKDIR /branch-gauge
 COPY ./ .
 
 # install dependencies
